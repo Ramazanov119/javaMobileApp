@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cloud Night</string>
+    <string name="behind">Zhetpedi</string>
+    <string name="ahead">Asyp ketti</string>
+    <string name="hit">Dal taptyn!</string>
+    <string name="input_value">San engiz</string>
+    <string name="play_more">Tagy oiyn</string>
+    <string name="try_to_guess">Sandy tauyp kor (1 &#8211; 100)</string>
+    <string name="error">--- ERROR /// QATE ENGIZU ---</string>
+</resources>
